@@ -1,12 +1,12 @@
-# _Calculator_
+# _Adress book_
 
-#### _Calculator application 01/11/2019_
+#### _Adress book 01/16/2019_
 
-#### By _**Olha Wysocky and Pavel Zanchuk**_
+#### By _**Olha Wysocky and Christopher Younger**_
 
 ## Description
 
-_This is a calculator application to practice and learn how to use JS_
+_This is an application to practice and learn how to use forms in JS_
 
 
 ## Technologies Used
@@ -20,4 +20,4 @@ _This is a calculator application to practice and learn how to use JS_
 MIT
 **
 
-Copyright (c) 2019 **_Olha Wysocky and Pavel Zanchuk_**
+Copyright (c) 2019 **_Olha Wysocky and Christopher Younger_**
